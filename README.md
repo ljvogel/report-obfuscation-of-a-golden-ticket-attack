@@ -1,1 +1,1 @@
-# report-obfuscation-of-a-golden-ticket-attack
+# Obfuscation of a Kerberos Golden Ticket Attack
